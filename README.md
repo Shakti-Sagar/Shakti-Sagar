@@ -86,7 +86,8 @@ _Aug 2024 – Nov 2024_
 
 ---
 
-### 📫 Connect with Me
-✉️ sagarvsshakti02@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/shakti-sagar-9a35262b9)  
-🐙 [GitHub](https://github.com/Shakti-Sagar)  
+### 📫 Connect with Me  
+✉️ **Email:** sagarvsshakti02@gmail.com  
+🌐 **LinkedIn:** [Shakti Sagar](https://www.linkedin.com/in/shakti-sagar-9a35262b9)  
+🐙 **GitHub:** [Shakti-Sagar](https://github.com/Shakti-Sagar)  
+
