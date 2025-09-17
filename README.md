@@ -72,12 +72,10 @@ _Aug 2024 – Nov 2024_
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakti-Sagar&show_icons=true&theme=radical" alt="Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakti-Sagar&theme=radical" alt="Streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakti-Sagar&layout=compact&theme=radical" alt="Top Langs" height="160" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shakti-Sagar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shakti-Sagar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakti-Sagar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
