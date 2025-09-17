@@ -2,7 +2,7 @@
 <h3 align="center">MCA Graduate | Full-Stack Developer | Passionate Learner</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shakti-Sagar&icon=2&color=0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shakti-Sagar&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
